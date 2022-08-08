@@ -1,0 +1,70 @@
+1. O QUE SÃO MÉTODOS HTTP?
+
+Os métodos HTTP (Hyper Text Transfer Protocol) são responsáveis por indicar comandos que devem ser realizados para um dado recurso. Resumidamente, eles são métodos de requisição de ações, que controlam o envio e recebimento de informações.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+2. QUAIS SÃO OS MÉTODOS HTTP MAIS UTILIZADOS ATUALMENTE?
+
+Os métodos HTTP mais utilizados atualmente são o GET, PUT, POST e DELETE.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+3. QUAIS SÃO OS 2 PRINCIPAIS MÉTODOS DO HTTP? QUAL É A DIFERENÇA ENTRE ELES?
+
+Os principais métodos são o GET e o POST. Enquanto o GET tem a função de retornar as informações solicitadas/lê dados, o POST cria uma nova informação/dados no servidor.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+4. O QUE SÃO REQUISIÇÕES HTTP? QUAIS OS TIPOS?
+
+Requisições HTTP são mensagens enviadas ao servidor para iniciar uma ação. Seus tipos são: GET, PUT, POST, DELETE, HEAD, CONNECT, PATCH, OPTIONS e TRACE.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5. COMO FUNCIONA UMA REQUISIÇÃO?
+
+Uma requisição funciona a partir da elaboração da seguinte estrutura:
+verbo/método desejado -> url -> versão do http
+cabeçalho da requisição (request header)
+corpo da requisição (request body)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+6. O QUE É O MÉTODO GET?
+
+É o método de requisição que solicita o retorno de dados/representação de um recurso.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+7. QUAL É O PROTOCOLO DE INTERNET PARA TRANSFERÊNCIA SEGURA, COM USO DE CERTIFICADO DIGITAL, UTILIZADO EM SITES DE COMPRAS ELETRÔNICAS?
+
+O protocolo HTTPS.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+8. QUAIS OS PRINCIPAIS MÉTODOS DE UMA REQUISIÇÃO REST?
+
+Os principais são: GET, PUT, POST e DELETE.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+9. QUAL A DIFERENÇA ENTRE IPV4 E IPV6?
+
+A principal diferença é relacionada à capacidade de cada protocolo. O IPv6 tem a capacidade de criar 1.028x mais endereços IP, possui a configuração automática, tem a possibilidade de se conectar a várias redes simultaneamente, tem um fluxo mais rápido e utiliza a criptografia, logo, é mais seguro.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+10. FAÇA UM RESUMO SOBRE OS SEGUINTES PROTOCOLOS: HTTP, TCP, IP, UDP, SMTP, FTP.
+
+- HTTP: responsável por distribuir informações de forma padronizada pela Internet
+
+- TCP: responsável por enviar pacotes para um determinado endereço IP com integridade
+
+- IP: responsável por atribuir um rótulo numérico a cada dispositivo conectado à Internet
+
+- UDP: responsável por enviar pacotes para um determinado endereço IP, mas sem o processo de verificação de erros
+
+- SMTP: responsável pelo envio de emails
+
+- FTP: responsável pela transferência de arquivos
